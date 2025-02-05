@@ -1,2 +1,2 @@
-print("New Hello Git with changes!")
+print("New Hello GitHub!")
 print("como estás?")
