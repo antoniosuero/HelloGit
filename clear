@@ -1,0 +1,115 @@
+[33mcommit 6db8e470221e99e92062e9b2f8f092bf7ac8d01f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 15:02:59 2025 +0100
+
+    Implementar Login
+
+[33mcommit 7cf4a774259d5000e417f20ff82a629322ba244f[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:49:53 2025 +0100
+
+    borrado login
+
+[33mcommit 6e11c2c7f8b241ba554f21527cd0411f1813aea2[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:40:08 2025 +0100
+
+    login v2
+
+[33mcommit ad18ef8846590dfde126de9a334097123f7eeaf2[m
+Merge: baa295f 9e910cc
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:33:19 2025 +0100
+
+    Correción conflicto
+
+[33mcommit 9e910ccd011905d50ded1e929539de4033c3459e[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:28:26 2025 +0100
+
+    Git v3
+
+[33mcommit baa295f91df194ee58744c93cb8a8c16006a5f0b[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:27:20 2025 +0100
+
+    Git 3 login
+
+[33mcommit 6f266028abd940f15f82087466e66657b886be85[m
+Merge: 9cbf120 4bd2779
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:22:01 2025 +0100
+
+    Merge branch 'main' into login
+
+[33mcommit 4bd2779db097ba201d26b43d9573bae2c4be28ce[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:21:42 2025 +0100
+
+    hello3 v2.3
+
+[33mcommit e69abe194817c00e50c1b40c45ea00638e23cfbe[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:13:59 2025 +0100
+
+    Git 3 v2
+
+[33mcommit 9cbf120528e2cd218f95b5ec5a083715943363f3[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 24 14:09:34 2025 +0100
+
+    Login
+
+[33mcommit 75152f9ce5a818c0a9d461c2b980f4b58f63e55f[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Wed Jan 22 20:47:51 2025 +0100
+
+    Este es mi quinto commit
+
+[33mcommit 8db79bcb69a6410af277ece729fd90041dfcb0da[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Sun Jan 19 13:18:41 2025 +0100
+
+    avanzamos
+
+[33mcommit b05924cc3c66bb4b44c440461ac7057ded30ea10[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Sun Jan 19 13:09:19 2025 +0100
+
+    Nuevo
+
+[33mcommit e0caa8cc68abf36a18867086df591e2d0c015d47[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Sun Jan 19 12:55:21 2025 +0100
+
+    Se añade el .gitignore
+
+[33mcommit 06153c06c67f775addba9a3f43b662b485c059ed[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Fri Jan 17 00:00:35 2025 +0100
+
+    me voye
+
+[33mcommit f4d5a67387e324b170e24f5931f2230eb722277b[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Thu Jan 16 23:57:54 2025 +0100
+
+    Segundo commit.
+
+[33mcommit 357cd4825879d053abfd687e4366f193ac21af35[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Thu Jan 16 23:52:52 2025 +0100
+
+    segunda vez
+
+[33mcommit 32f1d3f496883437f493ffeea74211c1d2a253a0[m
+Author: Suero <antonio.suero@hotmail.com>
+Date:   Thu Jan 16 23:48:48 2025 +0100
+
+    Sengundo cambio.
+
+[33mcommit f6b4ec5a8f6fb695330adb7d06496120f666958d[m
+Author: Valium <antonio.suero@hotmail.com>
+Date:   Thu Jan 16 23:39:51 2025 +0100
+
+    Este es mi primer commit
